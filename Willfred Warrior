@@ -7,10 +7,16 @@
 
 <body>
 	<header>I LOVE WILFRED</header>
+	
+	<h1>Pipfugle</h1>
 	<p> 
 		Wilfred er nice
 		og han er smuk
 		og han dufter særdeles godt
+	</p>
+	
+	<p>
+		Men hunder er også pænt nice
 	</p>
 </body>
 </html>
