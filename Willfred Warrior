@@ -1,3 +1,20 @@
-Wilfred er nice
-og han er smuk
-og han dufter særdeles godt
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+</head>
+
+<body>
+	<header>I LOVE WILFRED</header>
+	<p> 
+		Wilfred er nice
+		og han er smuk
+		og han dufter særdeles godt
+	</p>
+</body>
+</html>
+
+
+
+
